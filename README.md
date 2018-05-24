@@ -7,4 +7,6 @@
 	derecha e izquierda. Al momento de poner en marcha 
 	el programa sonara una música de fondo.
 
+	Instalar el paquete de Pygame para la ejecucion del sonido
+
  
